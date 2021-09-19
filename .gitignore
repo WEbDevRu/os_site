@@ -19,6 +19,8 @@ lib64/
 parts/
 sdist/
 var/
+Scripts/
+Lib/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -127,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# code redactors
+.idea
